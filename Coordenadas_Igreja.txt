@@ -1,0 +1,23 @@
+Altar Top left:  (529,374) 
+Altar Bot left:  (529,700)
+Altar Top Right: (1000,374)
+Altar Top Right: (1000,700)
+
+Impressões: 
+	reduzir taxa de amostragem para 1/5 dos frames obtidos (aumenta framerate) 
+ 	filtrar matrix para altar (aumenta framerate)
+
+Movimento: 
+	funciona, porém apenas em fala. Menor esforço computacional 
+	problema para identificar enquadramento
+	Sensivel a movimento de braço 
+	Circulo pode resolver problema do braço 
+Face: 
+
+Corpo: 
+
+
+
+	
+ 
+	
